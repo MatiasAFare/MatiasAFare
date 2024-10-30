@@ -1,6 +1,14 @@
-## Heya, I'm Matías Faré!👋
-![CatCuteGIF](https://github.com/user-attachments/assets/bf6929ca-38f3-49c8-b447-5a42492cd0a7)
- 
+<img src="https://i.ibb.co/D7FBgDw/Purple-and-Black-Simple-Coming-Soon-Banner-1.png" alt="Banner" width= 1000, heigh=300 />
+________________________________________________________________________________________________________________________________________________________
+<div align="center">
+<h1 fontsize=100px>Heya, I'm Matías Faré!👋</h1>
+
+![CatCuteGIF](https://github.com/user-attachments/assets/bf6929ca-38f3-49c8-b447-5a42492cd0a7) 
+
+</div>
+
+
+<h2>About me:</h2>
 <p>I train myself to develop in the
 technology sector, both in
 programming and in surveying
@@ -14,7 +22,8 @@ which leads me to look for
 ingenious solutions in complex
 environments.</p>
 
-<img></img>
+![AngryTypingKittyGIF](https://github.com/user-attachments/assets/e3e5b668-4857-4454-a727-bf0740ebf752)
+
 
 
 <!--
