@@ -52,9 +52,9 @@ environments.</p>
 
 <h3>Social Media:</h3>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasfare)
-
+<a href="https://www.linkedin.com/in/matiasfare" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <!--
 **MatiasAFare/MatiasAFare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
