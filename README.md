@@ -31,7 +31,7 @@ environments.</p>
 
 <h3>Skills and Porfolio:</h3>
 
-[![Porfolio](https://img.shields.io/badge/Portfolio-Click%20here-blue?style=for-the-badge)](https://matiasafare.github.io/portfolioMatiasFare/) *Work in progress*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20here-blue?style=for-the-badge)](https://matiasafare.github.io/portfolioMatiasFare/) <img src="./assets/wip.jpg" alt="work_in_progress" width="300" height="200" style="border-radius: 5px;">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
