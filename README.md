@@ -1,4 +1,4 @@
-<img src="https://postimg.cc/GT1yM5Yb" alt="Banner" width= 1000, height=500 />
+<img src="https://i.postimg.cc/BbjBvWnP/Purple-and-Black-Simple-Coming-Soon-Banner-1.png" alt="Banner" width= 1000, height=500 />
 
 <hr>
 
