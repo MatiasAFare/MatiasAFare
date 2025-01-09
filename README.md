@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/D7FBgDw/Purple-and-Black-Simple-Coming-Soon-Banner-1.png" alt="Banner" width= 1000, heigh=300 />
+<img src="https://i.ibb.co/D7FBgDw/Purple-and-Black-Simple-Coming-Soon-Banner-1.png" alt="Banner" width= 1000, heigh=500 />
 
 <hr>
 
